@@ -1,0 +1,7 @@
+"0","# Scale the wisc.data data using the ""scale()"" function"
+"0","data.scaled <- scale(wisc.data[2:31])"
+"0",""
+"0",""
+"0","data.dist <- dist(data.scaled)"
+"0",""
+"0","wisc.hclust <- hclust(data.dist, method = ""complete"")"

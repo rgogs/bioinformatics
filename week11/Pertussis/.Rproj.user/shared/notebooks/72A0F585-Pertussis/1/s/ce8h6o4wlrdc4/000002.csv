@@ -1,0 +1,33 @@
+"0","library(lubridate)"
+"2","
+Attaching package: ‘lubridate’
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+"
+"0","today()"
+"1","[1]"
+"1"," ""2022-04-21"""
+"1","
+"
+"0","#HOw many days have passed since new year 2000"
+"0","today() - ymd(""2000-01-01"")"
+"1","Time difference of "
+"1",""
+"1","8146"
+"1",""
+"1"," "
+"1",""
+"1","days"
+"1",""
+"1","
+"
+"0","#What is this in years?"
+"0","time_length( today() - ymd(""2000-01-01""), ""years"")"
+"1","[1]"
+"1"," 22.30253"
+"1","
+"

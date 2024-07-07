@@ -1,0 +1,3 @@
+"0","# Import vaccination data"
+"0","vax <- read.csv(""covid19vaccinesbyzipcode_test.csv"")"
+"0","head(vax)"

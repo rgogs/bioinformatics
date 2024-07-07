@@ -1,0 +1,3 @@
+"0","res = res[order(res$pvalue),]"
+"0","write.csv(res, file=""deseq_results.csv"")"
+"0",""

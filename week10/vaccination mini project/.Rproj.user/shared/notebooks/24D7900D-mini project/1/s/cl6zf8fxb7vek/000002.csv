@@ -1,0 +1,8 @@
+"0","library(dplyr)"
+"0","sd <- filter(vax, county == ""San Diego"")"
+"0",""
+"0","nrow(sd)"
+"1","[1]"
+"1"," 6634"
+"1","
+"

@@ -1,0 +1,2 @@
+"0","N <- sum(is.na(vax$persons_fully_vaccinated))"
+"0","total <- sum(vax$percent_of_population_fully_vaccinated, na.rm = TRUE)"

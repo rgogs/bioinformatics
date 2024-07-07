@@ -1,0 +1,10 @@
+"0","ggplot(subject) +"
+"0","  aes(time_length(age, ""year""),"
+"0","      fill=as.factor(subject$infancy_vac)) +"
+"0","  geom_histogram(show.legend=FALSE) +"
+"0","  facet_wrap(vars(subject$infancy_vac), nrow=2)"
+"2","Warning:"
+"2"," Use of `subject$infancy_vac` is discouraged. Use `infancy_vac` instead.
+"
+"2","`stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
+"

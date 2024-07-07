@@ -1,0 +1,23 @@
+"0","summary(res, alpha=0.05)"
+"1","
+"
+"1","out of 25258 with nonzero total read count
+"
+"1","adjusted p-value < 0.05
+"
+"1","LFC > 0 (up)       : 1242, 4.9%
+"
+"1","LFC < 0 (down)     : 939, 3.7%
+"
+"1","outliers [1]       : 142, 0.56%
+"
+"1","low counts [2]     : 9971, 39%
+"
+"1","(mean count < 10)
+"
+"1","[1] see 'cooksCutoff' argument of ?results
+"
+"1","[2] see 'independentFiltering' argument of ?results
+"
+"1","
+"

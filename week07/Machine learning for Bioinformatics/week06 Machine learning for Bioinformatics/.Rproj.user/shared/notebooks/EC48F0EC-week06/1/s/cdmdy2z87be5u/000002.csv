@@ -1,0 +1,5 @@
+"0","cols <- rainbow(nrow(x))"
+"0","barplot( as.matrix(x), col=cols )"
+"2","Warning in apply(height, 2L, cumsum) :"
+"2"," NAs introduced by coercion
+"

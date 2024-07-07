@@ -1,0 +1,4 @@
+"0","table(wisc.km$cluster, wisc.hclust.clusters)"
+"2","Error in table(wisc.km$cluster, wisc.hclust.clusters) : 
+  object 'wisc.km' not found
+"

@@ -1,0 +1,3 @@
+"0","zero.vales <- (which( meancounts[,1:2]==0, arr.ind=TRUE))"
+"0","to.rm <- unique(zero.vales[,1])"
+"0","mycounts <- meancounts[-to.rm,]"

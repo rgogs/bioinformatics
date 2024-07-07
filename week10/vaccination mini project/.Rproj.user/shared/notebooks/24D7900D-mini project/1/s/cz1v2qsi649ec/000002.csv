@@ -1,0 +1,7 @@
+"0","fivenum(vax.36)"
+"2","Warning in xtfrm.data.frame(x) :"
+"2"," cannot xtfrm data frames
+"
+"2","Error in `[.data.frame`(x, order(x, na.last = na.last, decreasing = decreasing)) : 
+  undefined columns selected
+"

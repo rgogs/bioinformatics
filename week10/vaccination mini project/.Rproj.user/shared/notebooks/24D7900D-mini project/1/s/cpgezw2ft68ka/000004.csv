@@ -1,0 +1,17 @@
+"0","library(lubridate)"
+"2","
+Attaching package: ‘lubridate’
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+"
+"0","today()"
+"1","[1]"
+"1"," ""2022-03-11"""
+"1","
+"
+"0","#Specify that we are using the year-month-day format"
+"0","vax$as_of_date <- ymd(vax$as_of_date)"

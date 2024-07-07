@@ -1,0 +1,9 @@
+"0","# Complete the API URLs..."
+"0","specimen <- read_json(""https://www.cmi-pb.org/api/specimen"", simplifyVector = TRUE) "
+"2","Warning in open.connection(con, ""rb"") :"
+"2","
+ "
+"2"," cannot open URL 'https://www.cmi-pb.org/api/specimen': HTTP status was '404 Not Found'
+"
+"2","Error in open.connection(con, ""rb"") : cannot open the connection
+"

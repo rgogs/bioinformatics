@@ -1,0 +1,1 @@
+"0","barplot( as.matrix(x[2:5]), col=cols, beside=TRUE)"

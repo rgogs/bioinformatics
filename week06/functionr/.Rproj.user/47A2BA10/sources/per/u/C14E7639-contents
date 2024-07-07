@@ -1,0 +1,20 @@
+rescale <-function(x) {
+  rng <-range(x)
+  (x - rng[1] / (rng[2] - rng[1]))
+}
+
+rescale(1:10)
+
+rescale( c(1, NA, 4, 10, 20), na.rm = TRUE)
+
+rescale01 <- function(x) {
+  rng <- range(x, na.rm=TRUE)
+  (x - rng[1]) / (rng[2] - rng[1])
+}
+
+rescale01( c(1, NA, 4, 10, "word'))
+
+rescale02 <- function(x, na.rm=TRUE) {
+  rng <- range(x, na.rm=na.rm)
+  (x - rng[1]) / (rng[2] - rng[1])
+}

@@ -1,0 +1,4 @@
+"0","treated <- metadata[metadata$dex == ""treated"", ]"
+"0","treated.counts <- counts[, treated$id]"
+"0","treated.mean <- rowMeans(treated.counts)"
+"0",""

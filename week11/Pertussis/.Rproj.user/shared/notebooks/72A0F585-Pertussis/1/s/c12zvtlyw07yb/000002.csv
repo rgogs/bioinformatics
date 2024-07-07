@@ -1,0 +1,3 @@
+"0","table(abdata$isotype)"
+"2","Error in table(abdata$isotype) : object 'abdata' not found
+"

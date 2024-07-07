@@ -1,0 +1,4 @@
+"0","# Align releated PDBs"
+"0","pdbs <- pdbaln(files, fit = TRUE), exefile=""msa"")"
+"2","Error: unexpected ',' in ""pdbs <- pdbaln(files, fit = TRUE),""
+"

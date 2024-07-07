@@ -1,0 +1,1 @@
+"0","plot(pcca$x[,1], pcca$x[,2], xlab=""PC1"", ylab=""PC2"")"
